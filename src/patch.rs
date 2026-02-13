@@ -1,11 +1,11 @@
 // Version and Manifest files
 const TEXT_SERVER_ROOTS: [&str; 1] = [
-	"https://ghfast.top/https://raw.githubusercontent.com/solsticegamestudios/GModPatchTool/refs/heads/files/"
+	"https://gh.momoka.tech/https://raw.githubusercontent.com/solsticegamestudios/GModPatchTool/refs/heads/files/"
 ];
 
 // Patch files
 const BINARY_SERVER_ROOTS: [&str; 1] = [
-	"https://ghfast.top/https://media.githubusercontent.com/media/solsticegamestudios/GModPatchTool/refs/heads/files/"
+	"https://gh.momoka.tech/https://media.githubusercontent.com/media/solsticegamestudios/GModPatchTool/refs/heads/files/"
 ];
 
 //const GMOD_STEAM_APPID: u64 = 4000;
